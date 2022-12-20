@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prakt_3</string>
+
+    <string-array name="themes">
+        <item>Default</item>
+        <item>Dark Theme</item>
+        <item>Light Theme</item>
+    </string-array>
+
+</resources>
